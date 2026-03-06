@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-# portfolio_builder
+
 =======
 # Portfolio Builder
 
-An AI-powered portfolio builder using OpenAI Agent SDK with handoff architecture. This tool uses three specialized AI agents to create impressive portfolios:
+An AI-powered portfolio builder using  SDK with handoff architecture. This tool uses three specialized AI agents to create impressive portfolios:
 
 1. **Lead Strategist** - Interviews you about your projects
 2. **Narrative Architect** - Crafts compelling stories using the STAR method
