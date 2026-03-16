@@ -65,9 +65,4 @@ portfolio-builder
 - SEO and ATS optimization
 - Accessible markup with proper alt texts
 
-## Requirements
 
-- Python 3.12+
-- API key from OpenAI or compatible provider
-- Internet connection for API calls
->>>>>>> cbcc65d (feat: Implement initial scaffolding)
